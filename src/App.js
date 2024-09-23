@@ -23,6 +23,8 @@ function App() {
       case 'toCurrenty':
         setToCurrency(value);
         break;
+      default:
+        break;
     }
   }
 
